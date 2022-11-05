@@ -1,0 +1,12 @@
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\bin\Debug\net6.0\NcfOnlineShop.Utility.deps.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\bin\Debug\net6.0\NcfOnlineShop.Utility.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\bin\Debug\net6.0\NcfOnlineShop.Utility.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\NcfOnlineShop.Utility.csproj.AssemblyReference.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\NcfOnlineShop.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\NcfOnlineShop.Utility.AssemblyInfoInputs.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\NcfOnlineShop.Utility.AssemblyInfo.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\NcfOnlineShop.Utility.csproj.CoreCompileInputs.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\NcfOnlineShop.Utility.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\refint\NcfOnlineShop.Utility.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\NcfOnlineShop.Utility.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.Utility\obj\Debug\net6.0\ref\NcfOnlineShop.Utility.dll

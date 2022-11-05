@@ -1,0 +1,17 @@
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\bin\Debug\net6.0\NcfOnlineShop.DataAccess.deps.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\bin\Debug\net6.0\NcfOnlineShop.DataAccess.runtimeconfig.json
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\bin\Debug\net6.0\NcfOnlineShop.DataAccess.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\bin\Debug\net6.0\NcfOnlineShop.DataAccess.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\bin\Debug\net6.0\NcfOnlineShop.Models.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\bin\Debug\net6.0\NcfOnlineShop.Models.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.csproj.AssemblyReference.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.AssemblyInfoInputs.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.AssemblyInfo.cs
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.csproj.CopyComplete
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\refint\NcfOnlineShop.DataAccess.dll
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.pdb
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\NcfOnlineShop.DataAccess.genruntimeconfig.cache
+C:\Users\ALTITUDE TECH\Desktop\.NET Core\NcfOnlineShop\NcfOnlineShop.DataAccess\obj\Debug\net6.0\ref\NcfOnlineShop.DataAccess.dll
